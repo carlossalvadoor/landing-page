@@ -1,0 +1,8 @@
+input, textarea {
+  display: block;
+  }
+.reservation {
+  padding-left: 25px;
+  background-color: grey;
+  text-align: center;
+}

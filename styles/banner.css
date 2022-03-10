@@ -1,0 +1,39 @@
+#banner1{
+	height: 60vh;
+	padding: 60px;
+	background-size: cover;
+	color: white;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	}
+
+.btn-blue{
+	color: white;
+	background-color: #FF9601;
+	border-radius: 6px;
+	padding: 5px 10px;	
+}
+
+.btn-blue:hover {
+	background-color: white;
+	color: #FF9601;
+	transition: 0,5s;
+	border: 1px solid #FF9601;
+}
+
+#restaurantname {height: 5vh;
+	color: #FF9601;
+	text-align: left;
+	background-color:
+	font-size: 20px;
+	padding: 10px;
+	text-shadow: 0.05em 0.05em #333;
+}
+
+#banner{
+	background-image: url("../images/paellabanner2.jpeg");
+	justify-content: center;
+	background-size: cover;
+}
